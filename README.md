@@ -1,2 +1,0 @@
-# ChuckNorris
-frontend
